@@ -1,0 +1,6 @@
+,Text Domain,Best Model
+0,Health,"t5-tokenizer, distilbart-cnn"
+1,Politics,"bart-large-cnn, distilbart-cnn"
+2,Sports,"distilbart-cnn, bart-large-cnn-samsum"
+3,Technology,"bart-large-cnn, bart-large-cnn-samsum"
+4,Finance,distilbart-cnn
